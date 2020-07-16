@@ -1,0 +1,12 @@
+{
+  "name": "appecoleta",
+  "displayName": "appecoleta",
+  "expo": {
+    "name": "appecoleta",
+    "slug": "appecoleta",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
