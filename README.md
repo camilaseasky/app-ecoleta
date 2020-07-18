@@ -1,4 +1,4 @@
-<img src="https://github.com/camilaseasky/Ecoleta-Front-end/blob/master/docs/home.png" width="600px" height="400px"/>
+<img src="https://github.com/camilaseasky/app-ecoleta/blob/master/src/assets/logo.png" />
 
 # eColeta
 
@@ -9,23 +9,10 @@
 A ideia do eColeta foi criada pela Rocketseat para a semana NextLevel, na qual foi implementado usando as funcionalidades básicas
 da Stack: Nodejs, Reactjs e React Native.
 O objetivo da aplicação é permitir o cadastro de pontos de coletas de produtos recicláveis, bem como da lista de produtos coletados
-por cada um deste pontos. Estas informações seriam, então, disponibilizadas para aquelas pessoas que possuem items recicláveis para
+por cada um deste pontos. Estas informações seriam, então, disponibilizadas através de um app mobile para aquelas pessoas que possuem items recicláveis para
 entregar, mas não sabem onde podem levá-los.
 
-##  :sweat_smile: O front-end:
-  Usando o projeto da semana NextLevel como inspiração, criei uma aplicação React com as tecnologias aprendidas durante o bootcamp:
-    
-* Reactjs
-* Typescript
-* Axios
-* Unform/web - Unform/core (by Rocketseat)
-* Hooks como useState, useCallback, useEffect.
-* react-select
-* react-leaflet
-* react-input-mask
-* styled-components
 
-  
  :heart_eyes::heart_eyes::heart_eyes::heart_eyes::heart_eyes::heart_eyes:
  
  ### As telas da aplicação:
@@ -55,6 +42,7 @@ entregar, mas não sabem onde podem levá-los.
  *  UseState, UseEffect;
  *  Styled-components;
  *  @react-navigation/native
+ *  Typescript
  
  
  
