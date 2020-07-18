@@ -76,8 +76,8 @@ const Points: React.FC = () => {
       const location = await Location.getCurrentPositionAsync();
       const { latitude, longitude } = location.coords;
       setInitialPosition([
-        -15.6144073,
-        -56.041807
+        latitude,
+        longitude
       ])
     }
 
