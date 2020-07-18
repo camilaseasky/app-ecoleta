@@ -1,6 +1,5 @@
 <img src="https://github.com/camilaseasky/app-ecoleta/blob/master/src/assets/logo.png" />
 
-# eColeta
 
 > Uma aplicação para cooperar com o meio ambiente e ainda aprender react-native usando o Expo sdk38 com Bare Workflow!  :wink:
 
